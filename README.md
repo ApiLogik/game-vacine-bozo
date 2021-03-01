@@ -1,2 +1,6 @@
 # game-vacine-bozo
-Game criado apenas com html, css e javascript
+Jogo simples criado apenas com HTML, CSS e JavaScript.
+(Apenas para treinamento);
+
+A simple game made it only with HTML, CSS and JavaScript;
+(For training only);
